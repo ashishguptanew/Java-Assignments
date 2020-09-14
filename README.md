@@ -1,3 +1,3 @@
 # Java Assignments
 
-## Java Sources code written for better learning, practicing and sharing for others
+## Java Sources code is written for better learning, practicing and sharing for others
